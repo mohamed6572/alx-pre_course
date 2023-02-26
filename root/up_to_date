@@ -1,1 +1,0 @@
-git branch update_script git checkout git add . git commit -m 'first work' git push origin git checkout git pull
